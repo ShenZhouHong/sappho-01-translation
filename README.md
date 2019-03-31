@@ -46,6 +46,49 @@
 > μή μ' ἄσαισι μηδ' ὀνίαισι δάμνα,
 >      πότνια, θῦμον,
 
+| Greek word       | Type  | Gloss | Meaning |
+|------------------|-------|-------|---------|
+| ποικιλόθρον'     | Adj.  | sg. masc./fem. voc.  | On richly-worked throne |
+| ἀθανάτ           | Adj.  | sg. masc./fem. voc.  | undying/immortal |
+| Ἀφρόδιτα,        | Noun  | sg. voc.             | Aphrodite |
+
+
+| Greek word       | Type  | Gloss | Meaning |
+|------------------|-------|-------|---------|
+| παῖ              | Noun  | sg. fem. voc.| child |
+| Δίος             | Noun  | sg. masc. gen.     | (of) Zeus |
+| δολόπλοκε,       | Adj.  | sg. fem. voc | weaving wiles |
+| λίσσομαί         | Verb  | 1st. sg. pres. mp. | I pray (for myself) |
+| σε,              | Pron. | 2nd sg. acc. | you |
+
+
+| Greek word       | Type  | Gloss | Meaning |
+|------------------|-------|-------|---------|
+| μή               | Neg.  | N/A   | not  |
+| μ'               | Pron. | 1st sg. acc. | myself |
+| ἄσαισι           | Noun  | pl. fem. dat. | to/with distress |
+| μηδ'             | Partic.| N/A | and not |
+| ὀνίαισι          | Noun | pl. fem. dat. | to/with grief, sorrow, distress |
+| δάμνα,           | Verb | 3rd. sg. | to overpower |
+
+
+| Greek word       | Type  | Gloss | Meaning |
+|------------------|-------|-------|---------|
+| πότνια,    | Noun | sg. fem. voc./acc. | Queen |
+| θῦμον,     | Noun | sg. masc. acc | soul |
+
+### Rough translation
+> On richly-worked throne immortal Aphrodite,
+> child of Zeus, weaver of wiles, I pray to you,
+> Do not overpower with sorrow and grief;
+> Queen, my soul.
+
+#### Translator's notes:
+* μ' stems from ἐγώ
+* The Liddell and Scott also gives an variety of possible translations for ἄσαισι, stemming from ἄση. Alternative meanings can include: surfeit, loathing, nausea, distress, vexation, or even longing and desire.
+* μηδ᾽ is taken as μηδέ, which is a particle of negation.
+* δάμνα as stemming from δαμνάω instead of the etymologically similar μι verb δάμνημι
+
 ### Stanza 2
 > ἀλλὰ τυίδ' ἔλθ', αἴ ποτα κἀτέρωτα
 > τὰς ἔμας αὔδας ἀίοισα πήλοι
