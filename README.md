@@ -167,12 +167,13 @@
 >      κωὐκ ἐθέλοισα.
 
 #### Rough translation
-> And if for she flee, quickly she chases,
+> And if for she flee, quickly she will chases,
 > and if she gifts take not, she will give you.
 > and if she loves you not, soon she will love
 > and not willing
 
 #### Translator's notes
+* Here the sigma which denotes the future tense is merged in διώξει.
 * Thankfully, the only complicated part of this stanza was the usage of κωὐκ, the crasis form of καῖ οὐκ
 * The Aeolic ἐθέλοισα is the Attic ἐθελοῦσα. Note that it is feminine, hence the unrequited lover is a woman.
 
@@ -181,6 +182,17 @@
 > ἐκ μερίμναν, ὄσσα δέ μοι τέλεσσαι
 > θῦμος ἰμέρρει, τέλεσον, σὺ δ' αὔτα
 >      σύμμαχος ἔσσο.
+
+#### Rough translation
+> and you come to me even now, resolve difficult
+> from of thoughts, all things that my soul strongly wishes to
+> accomplish, fulfilling, For you
+> to fighting along with me
+
+#### Translator's notes
+* The scholar C.W. Conrad notes that the ἐκ is in tmesis, where it actually belongs to ἐκλῦσον, but is cut off in some reason. However translating it as a simple preposition seems to work out fine.
+* Taking τέλεσσαι as the aorist optative.
+* ἰμέρρει is another Aeolic superlative, most likely the Attic ἱμείρει.
 
 ## Technical Information
 ### Compiling document
