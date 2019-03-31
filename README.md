@@ -114,11 +114,34 @@
 > πύκνα δίννεντες πτέρ' ἀπ' ὠράνωἴθε-
 >      ρος διὰ μέσσω·
 
+#### Rough translation
+> Your chariot under yoke, fetching with
+> beautiful, swift sparrows circling close around the dark
+> earth down from the heavens
+
+#### Translator's notes:
+* ὐπασδεύξαισα is compound, taking form of both ὑπο (lit. under) and the μι-verb ζεύγνυμι.
+* δίννεντες was especially difficult to find in the dictionary, but eventually I took it as "to circle about"
+* ἀπ' ὠράνωἴθερος appears to be some form of crasis, perhaps ὠράνου αἴθερος. It is glossed as "heaven" in my translation.
+
 ### Stanza 4
 > αἶψα δ' ἐξίκοντο· σὺ δ', ὦ μάκαιρα,
 > μειδιαίσαισ' ἀθανάτωι προσώπωι
 > ἤρε' ὄττι δηὖτε πέπονθα κὤττι
 >      δηὖτε κάλημμι
+
+#### Rough translation
+> They arrive suddenly, and you, oh Blessed one,
+> Smiling, immortal face'd
+> You ask that yet again who has wronged me.
+
+#### Translator's notes
+* Note that likewise μειδιαίσαισ is not standard Attic, but rather Aeolic of μειδιᾶν participle in aorist feminist singular.
+* "Smiling, immortal face'd" is indeed an exceptionally ugly translation. However, this is just the rough translation, done with emphasis of speed and preservation of word-order. The final polished translation will be much nicer.
+* κὤττι is the crasis form of καὶ ὄττι
+* ἤρε Aeolic for ἐρωτᾶν?
+* δηὖτε is poetic crasis for δὴ αὖτε
+* κάλημμι is Attic of καλέω
 
 ### Stanza 5
 > κὤττι μοι μάλιστα θέλω γένεσθαι
@@ -126,11 +149,31 @@
 > μαισ' ἄγην ἐς σὰν φιλότατα; τίς σ', ὦ
 >      Ψά]πφ', ἀδικήει;
 
+#### Rough translation
+> And which is the exceeding desire of my soul
+> Who I once again persuade to bring back into your love
+> Oh Sappho, who is wronging you?
+
+#### Translator's notes
+* And once again, κὤττι is the crasis form of καὶ ὄττι
+* μάλιστα is given as the superlative of μάλα
+* δηὖτε is poetic crasis for δὴ αὖτε
+* Taking ἄγην as the present infinitive form of ἀγάω
+
 ### Stanza 6
 > καὶ γὰρ αἰ φεύγει, ταχέως διώξει,
 > αἰ δὲ δῶρα μὴ δέκετ', ἀλλὰ δώσει,
 > αἰ δὲ μὴ φίλει, ταχέως φιλήσει
 >      κωὐκ ἐθέλοισα.
+
+#### Rough translation
+>
+>
+>
+>
+
+#### Translator's notes
+
 
 ### Stanza 7
 > ἔλθε μοι καὶ νῦν, χαλέπαν δὲ λῦσον
