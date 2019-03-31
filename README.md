@@ -1,5 +1,5 @@
 # Translation of Sappho Fragment 1: Ode to Aphrodite
-2018 Freshmen Language translation of Sappho fragment 1. Glossed and translated by Shen Zhou Hong `<shong@sjc.edu>`
+2019 Freshmen Language translation of Sappho fragment 1. Glossed and translated by Shen Zhou Hong `<shong@sjc.edu>`
 
 ## Original Aeolic Greek
 > ποικιλόθρον' ἀθανάτ Ἀφρόδιτα,
@@ -94,6 +94,19 @@
 > τὰς ἔμας αὔδας ἀίοισα πήλοι
 > ἔκλυες, πάτρος δὲ δόμον λίποισα
 >      χρύσιον ἦλθες
+
+#### Rough translation
+> But come hither if ever on the other side,
+> of following my cry perceiving afar
+> you heard, of your father's golden house leaving
+> you went
+
+#### Translator's notes:
+* τυίδ' stemming from τυῖδε
+* ἔλθ' is probably a enclitic form of deponent verb ἔρχομαι
+* Supposedly κἀτέρωτα is Aeolic for ἑτέρωθι.
+* πήλοι taken as the Aeolic τηλοῦ, according to the Liddell and Scott.
+* πάτρος is father in the genitive. This translation assumes the same usage as in the phrase τὰ πρὸς πατρός.
 
 ### Stanza 3
 > ἄρμ' ὐπασδεύξαισα· κάλοι δέ σ' ἆγον
