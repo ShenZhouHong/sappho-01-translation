@@ -167,13 +167,14 @@
 >      κωὐκ ἐθέλοισα.
 
 #### Rough translation
->
->
->
->
+> And if for she flee, quickly she chases,
+> and if she gifts take not, she will give you.
+> and if she loves you not, soon she will love
+> and not willing
 
 #### Translator's notes
-
+* Thankfully, the only complicated part of this stanza was the usage of κωὐκ, the crasis form of καῖ οὐκ
+* The Aeolic ἐθέλοισα is the Attic ἐθελοῦσα. Note that it is feminine, hence the unrequited lover is a woman.
 
 ### Stanza 7
 > ἔλθε μοι καὶ νῦν, χαλέπαν δὲ λῦσον
