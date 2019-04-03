@@ -17,8 +17,8 @@
 % For more information on documentclass configuration, see:
 % https://texblog.org/2013/02/13/latex-documentclass-options-illustrated/#formula
 \documentclass[
-  12pt,       % 10pt, 11pt, 12pt
-  a4paper,    % a4paper, letterpaper, a5paper, b5paper, executivepaper, legalpaper
+  10pt,       % 10pt, 11pt, 12pt
+  letterpaper,    % a4paper, letterpaper, a5paper, b5paper, executivepaper, legalpaper
   final,      % draft
   onecolumn,  % twocolumn
   oneside,    % twoside
@@ -31,6 +31,7 @@
 % Document Metadata
 \title{
   \textbf{\textsc{Ode to Aphrodite:} \\ A Translation of Sappho Fragment 1}
+}
 \author{
   By Shen Zhou Hong \and St. John's College
 }
@@ -45,6 +46,9 @@
 % Includes content body. If the essay is very long, it might make sense to split
 % the content across multiple .tex files, and include them all here, e.g.
 % \input{sections/preamble.tex}
-\input{sections/body.tex}
+\clearpage
+\input{sections/translation.tex}
+\clearpage
+\input{sections/interlinear.tex}
 
 \end{document}

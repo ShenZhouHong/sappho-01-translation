@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>Verses!</title>
+
+<script>
+function convertVerses()
+{
+    var input = document.getElementById('input').value
+    var lines = input.split(/\r?\n/);
+    var env = "verse"
+    var output = "";
+    for (var i = 0;i < lines.length;i++)
+    {
+        if (!lines[i].match(/^[ \t\n]*$/))
+        {
+         //   alert(lines[i])
+        // no empty line
+            if (lines.length==1 ||
+              (i==0 && lines[i+1].match(/^[ \t\n]*$/)) ||
+                (i==lines.length && lines[i-1].match(/^[ \t\n]*$/)) ||
+                (lines[i-1].match(/^[ \t\n]*$/) && lines[i+1].match(/^[ \t\n]*$/))) {
+                // only line of verse
+                output += '\\begin\{'+env+'\}\n' + lines[i] + '\n\\end\{'+env+'\}\n\n';
+            } else  if (i==0 || lines[i-1].match(/^[ \t\n]*$/)) {
+                // first line of verse
+                output += '\\begin\{'+env+'\}\n' +lines[i] + '\\\\\n';
+            } else if (i==lines.length || lines[i+1].match(/^[ \t\n]*$/))  {
+                // last line of verse
+                output += lines[i] + '\n\\end\{'+env+'\}\n\n';
+            } else {
+                // any other line of the verse
+                output += lines[i] + '\\\\\n';
+            }
+        }
+    }
+    document.getElementById('output').value = output;
+}
+
+</script>
+
+<style>
+textarea {width:700px;height:330px;display:block;margin:10px}
+button {width:700px;height:50px;margin:10px}
+</style>
+</head>
+
+<body>
+<textarea id="input">
+p0
+
+p1
+p2
+p3
+
+p5
+p6
+
+p9
+</textarea>
+<button onclick="convertVerses()"> Convert!</button>
+<textarea id="output">
+</textarea>
+</body>
+</html>
