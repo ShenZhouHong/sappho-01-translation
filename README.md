@@ -120,9 +120,7 @@
 > earth down from the heavens
 
 #### Translator's notes:
-* ὐπασδεύξαισα is compound, taking form of both ὑπο (lit. under) and the μι-verb ζεύγνυμι.
-* δίννεντες was especially difficult to find in the dictionary, but eventually I took it as "to circle about"
-* ἀπ' ὠράνωἴθερος appears to be some form of crasis, perhaps ὠράνου αἴθερος. It is glossed as "heaven" in my translation.
+
 
 ### Stanza 4
 > αἶψα δ' ἐξίκοντο· σὺ δ', ὦ μάκαιρα,
